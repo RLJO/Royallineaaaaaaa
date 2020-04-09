@@ -598,3 +598,39 @@
 	path = tracking
 	url = https://github.com/RLCO/tracking.git
 	branch = 12.0
+[submodule "oehealth"]
+	path = oehealth
+	url = https://github.com/RLCO/oehealth.git
+	branch = 12.0
+[submodule "horizon"]
+	path = horizon
+	url = https://github.com/RLCO/horizon.git
+	branch = 12.0
+[submodule "Jupical_Contributions"]
+	path = Jupical_Contributions
+	url = https://github.com/RLCO/Jupical_Contributions.git
+	branch = 12.0
+[submodule "sdi-addons"]
+	path = sdi-addons
+	url = https://github.com/RLCO/sdi-addons.git
+	branch = 12.0
+[submodule "cb-hr"]
+	path = cb-hr
+	url = https://github.com/RLCO/cb-hr.git
+	branch = 12.0
+[submodule "survey_attachment"]
+	path = survey_attachment
+	url = https://github.com/RLCO/survey_attachment.git
+	branch = 12.0
+[submodule "odoo_dhtmlxgantt"]
+	path = odoo_dhtmlxgantt
+	url = https://github.com/RLCO/odoo_dhtmlxgantt.git
+	branch = 12.0
+[submodule "gityopie"]
+	path = gityopie
+	url = https://github.com/RLCO/gityopie.git
+	branch = 12.0
+[submodule "odoo-formio"]
+	path = odoo-formio
+	url = https://github.com/RLCO/odoo-formio.git
+	branch = 12.0

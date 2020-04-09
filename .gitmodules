@@ -558,3 +558,43 @@
 	path = fb-connector
 	url = https://github.com/Vauxoo/fb-connector.git
 	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RLCO/backend_theme.git
+	branch = 12.0
+[submodule "OdooEduERP"]
+	path = OdooEduERP
+	url = https://github.com/RLCO/OdooEduERP.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RLCO/mailbox_replica.git
+	branch = 12.0
+[submodule "Openworx-odoo-addons"]
+	path = Openworx-odoo-addons
+	url = https://github.com/RLCO/Openworx-odoo-addons.git
+	branch = 12.0
+[submodule "SythilTech-Odoo"]
+	path = SythilTech-Odoo
+	url = https://github.com/RLCO/SythilTech-Odoo.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RLCO/account-move-import.git
+	branch = 12.0
+[submodule "medical-fhir"]
+	path = medical-fhir
+	url = https://github.com/rlco/medical-fhir.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RLCO/YK.git
+	branch = 12.0
+[submodule "cb-medical"]
+	path = cb-medical
+	url = https://github.com/RLCO/cb-medical.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RLCO/tracking.git
+	branch = 12.0

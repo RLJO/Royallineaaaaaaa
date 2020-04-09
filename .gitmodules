@@ -518,3 +518,23 @@
 	path = vertical-housing-cooperative
 	url = https://github.com/RLCO/vertical-housing-cooperative.git
 	branch = 12.0
+[submodule "vertical-isp"]
+	path = vertical-isp
+	url = https://github.com/RLCO/vertical-isp.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = https://github.com/RLCO/web.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/RLCO/website.git
+	branch = 12.0
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/RLCO/website-addons.git
+	branch = 12.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/RLCO/wms.git
+	branch = 12.0

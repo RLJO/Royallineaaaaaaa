@@ -158,3 +158,151 @@
 	path = currency
 	url = https://github.com/RLCO/currency.git
 	branch = 12.0
+[submodule "data-protection"]
+	path = data-protection
+	url = https://github.com/RLCO/data-protection.git
+	branch = 12.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/RLCO/delivery-carrier.git
+	branch = 12.0
+[submodule "Development-Tutorials"]
+	path = Development-Tutorials
+	url = https://github.com/RLCO/Development-Tutorials.git
+	branch = 12.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/RLCO/e-commerce.git
+	branch = 12.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/RLCO/edi.git
+	branch = 12.0
+[submodule "eficent-odoo-addons"]
+	path = eficent-odoo-addons
+	url = https://github.com/RLCO/eficent-odoo-addons.git
+	branch = 12.0
+[submodule "event"]
+	path = event
+	url = https://github.com/RLCO/event.git
+	branch = 12.0
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/RLCO/field-service.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/RLCO/geospatial.git
+	branch = 12.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/RLCO/helpdesk.git
+	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = https://github.com/RLCO/hr.git
+	branch = 12.0
+[submodule "interface-github"]
+	path = interface-github
+	url = https://github.com/RLCO/interface-github.git
+	branch = 12.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/RLCO/intrastat-extrastat.git
+	branch = 12.0
+[submodule "investor-wallet-platform"]
+	path = investor-wallet-platform
+	url = https://github.com/RLCO/investor-wallet-platform.git
+	branch = 12.0
+[submodule "iot"]
+	path = iot
+	url = https://github.com/RLCO/iot.git
+	branch = 12.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/RLCO/knowledge.git
+	branch = 12.0
+[submodule "logeco"]
+	path = logeco
+	url = https://github.com/RLCO/logeco.git
+	branch = 12.0
+[submodule "logistics-center"]
+	path = logistics-center
+	url = https://github.com/RLCO/logistics-center.git
+	branch = 12.0
+[submodule "mail-addons"]
+	path = mail-addons
+	url = https://github.com/RLCO/mail-addons.git
+	branch = 12.0
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/RLCO/maintenance.git
+	branch = 12.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/RLCO/management-system.git
+	branch = 12.0
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/RLCO/manufacture.git
+	branch = 12.0
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/RLCO/manufacture-reporting.git
+	branch = 12.0
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = https://github.com/RLCO/margin-analysis.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/RLCO/mis-builder.git
+	branch = 12.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/RLCO/misc-addons.git
+	branch = 12.0
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = https://github.com/RLCO/miscellaneous.git
+	branch = 12.0
+[submodule "mrp_subcontracting-backport"]
+	path = mrp_subcontracting-backport
+	url = https://github.com/RLCO/mrp_subcontracting-backport.git
+	branch = 12.0
+[submodule "muk_base"]
+	path = muk_base
+	url = https://github.com/RLCO/muk_base.git
+	branch = 12.0
+[submodule "muk_bundles"]
+	path = muk_bundles
+	url = https://github.com/RLCO/muk_bundles.git
+	branch = 12.0
+[submodule "muk_dms"]
+	path = muk_dms
+	url = https://github.com/RLCO/muk_dms.git
+	branch = 12.0
+[submodule "muk_misc"]
+	path = muk_misc
+	url = https://github.com/RLCO/muk_misc.git
+	branch = 12.0
+[submodule "muk_web"]
+	path = muk_web
+	url = https://github.com/RLCO/muk_web.git
+	branch = 12.0
+[submodule "muk_website"]
+	path = muk_website
+	url = https://github.com/RLCO/muk_website.git
+	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/RLCO/multi-company.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RLCO/multi-store.git
+	branch = 12.0
+[submodule "oca-custom"]
+	path = oca-custom
+	url = https://github.com/RLCO/oca-custom.git
+	branch = 12.0

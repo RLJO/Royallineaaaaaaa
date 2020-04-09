@@ -306,3 +306,55 @@
 	path = oca-custom
 	url = https://github.com/RLCO/oca-custom.git
 	branch = 12.0
+[submodule "odoo-academic"]
+	path = odoo-academic
+	url = https://github.com/RLCO/odoo-academic.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RLCO/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-hr-incubator"]
+	path = odoo-addons-hr-incubator
+	url = https://github.com/RLCO/odoo-addons-hr-incubator.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RLCO/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RLCO/odooapps.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RLCO/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "odoo-py3o-report-templates"]
+	path = odoo-py3o-report-templates
+	url = https://github.com/RLCO/odoo-py3o-report-templates.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RLCO/partner.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/RLCO/partner-contact.git
+	branch = 12.0
+[submodule "pos"]
+	path = pos
+	url = https://github.com/RLCO/pos.git
+	branch = 12.0
+[submodule "product"]
+	path = product
+	url = https://github.com/RLCO/product.git
+	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/RLCO/product-attribute.git
+	branch = 12.0
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/RLCO/product-pack.git
+	branch = 12.0

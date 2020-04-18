@@ -1,0 +1,636 @@
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/RLCO/access-addons.git
+	branch = 12.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/RLCO/account-analytic.git
+	branch = 12.0
+[submodule "account-budgeting"]
+	path = account-budgeting
+	url = https://github.com/RLCO/account-budgeting.git
+	branch = 12.0
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/RLCO/account-closing.git
+	branch = 12.0
+[submodule "account-consolidation"]
+	path = account-consolidation
+	url = https://github.com/RLCO/account-consolidation.git
+	branch = 12.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/RLCO/account-financial-reporting.git
+	branch = 12.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/RLCO/account-financial-tools.git
+	branch = 12.0
+[submodule "account-fiscal-rule"]
+	path = account-fiscal-rule
+	url = https://github.com/RLCO/account-fiscal-rule.git
+	branch = 12.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/RLCO/account-invoice-reporting.git
+	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/RLCO/account-invoicing.git
+	branch = 12.0
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/RLCO/account-payment.git
+	branch = 12.0
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = https://github.com/RLCO/account-reconcile.git
+	branch = 12.0
+[submodule "addons"]
+	path = addons
+	url = https://github.com/RLCO/addons.git
+	branch = 12.0
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = https://github.com/RLCO/aeroo_reports.git
+	branch = 12.0
+[submodule "ak-odoo-incubator"]
+	path = ak-odoo-incubator
+	url = https://github.com/RLCO/ak-odoo-incubator.git
+	branch = 12.0
+[submodule "alfodoo"]
+	path = alfodoo
+	url = https://github.com/RLCO/alfodoo.git
+	branch = 12.0
+[submodule "apps-store"]
+	path = apps-store
+	url = https://github.com/RLCO/apps-store.git
+	branch = 12.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/RLCO/bank-payment.git
+	branch = 12.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/RLCO/bank-statement-import.git
+	branch = 12.0
+[submodule "brand"]
+	path = brand
+	url = https://github.com/RLCO/brand.git
+	branch = 12.0
+[submodule "business_intelligence_fields"]
+	path = business_intelligence_fields
+	url = https://github.com/RLCO/business_intelligence_fields.git
+	branch = 12.0
+[submodule "business-requirement"]
+	path = business-requirement
+	url = https://github.com/RLCO/business-requirement.git
+	branch = 12.0
+[submodule "care_center"]
+	path = care_center
+	url = https://github.com/RLCO/care_center.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons"]
+	path = clvsol_odoo_addons
+	url = https://github.com/RLCO/clvsol_odoo_addons.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/RLCO/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_mfmng"]
+	path = clvsol_odoo_addons_mfmng
+	url = https://github.com/RLCO/clvsol_odoo_addons_mfmng.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_pbm"]
+	path = clvsol_odoo_addons_pbm
+	url = https://github.com/RLCO/clvsol_odoo_addons_pbm.git
+	branch = 12.0
+[submodule "commission"]
+	path = commission
+	url = https://github.com/RLCO/commission.git
+	branch = 12.0
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/RLCO/community-data-files.git
+	branch = 12.0
+[submodule "connector"]
+	path = connector
+	url = https://github.com/RLCO/connector.git
+	branch = 12.0
+[submodule "connector-cmis"]
+	path = connector-cmis
+	url = https://github.com/RLCO/connector-cmis.git
+	branch = 12.0
+[submodule "connector-ecommerce"]
+	path = connector-ecommerce
+	url = https://github.com/RLCO/connector-ecommerce.git
+	branch = 12.0
+[submodule "connector-interfaces"]
+	path = connector-interfaces
+	url = https://github.com/RLCO/connector-interfaces.git
+	branch = 12.0
+[submodule "connector-jira"]
+	path = connector-jira
+	url = https://github.com/RLCO/connector-jira.git
+	branch = 12.0
+[submodule "connector-telephony"]
+	path = connector-telephony
+	url = https://github.com/RLCO/connector-telephony.git
+	branch = 12.0
+[submodule "contract"]
+	path = contract
+	url = https://github.com/RLCO/contract.git
+	branch = 12.0
+[submodule "countinghouse"]
+	path = countinghouse
+	url = https://github.com/RLCO/countinghouse.git
+	branch = 12.0
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/RLCO/credit-control.git
+	branch = 12.0
+[submodule "crm"]
+	path = crm
+	url = https://github.com/RLCO/crm.git
+	branch = 12.0
+[submodule "currency"]
+	path = currency
+	url = https://github.com/RLCO/currency.git
+	branch = 12.0
+[submodule "data-protection"]
+	path = data-protection
+	url = https://github.com/RLCO/data-protection.git
+	branch = 12.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/RLCO/delivery-carrier.git
+	branch = 12.0
+[submodule "Development-Tutorials"]
+	path = Development-Tutorials
+	url = https://github.com/RLCO/Development-Tutorials.git
+	branch = 12.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/RLCO/e-commerce.git
+	branch = 12.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/RLCO/edi.git
+	branch = 12.0
+[submodule "eficent-odoo-addons"]
+	path = eficent-odoo-addons
+	url = https://github.com/RLCO/eficent-odoo-addons.git
+	branch = 12.0
+[submodule "event"]
+	path = event
+	url = https://github.com/RLCO/event.git
+	branch = 12.0
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/RLCO/field-service.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/RLCO/geospatial.git
+	branch = 12.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/RLCO/helpdesk.git
+	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = https://github.com/RLCO/hr.git
+	branch = 12.0
+[submodule "interface-github"]
+	path = interface-github
+	url = https://github.com/RLCO/interface-github.git
+	branch = 12.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/RLCO/intrastat-extrastat.git
+	branch = 12.0
+[submodule "investor-wallet-platform"]
+	path = investor-wallet-platform
+	url = https://github.com/RLCO/investor-wallet-platform.git
+	branch = 12.0
+[submodule "iot"]
+	path = iot
+	url = https://github.com/RLCO/iot.git
+	branch = 12.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/RLCO/knowledge.git
+	branch = 12.0
+[submodule "logeco"]
+	path = logeco
+	url = https://github.com/RLCO/logeco.git
+	branch = 12.0
+[submodule "logistics-center"]
+	path = logistics-center
+	url = https://github.com/RLCO/logistics-center.git
+	branch = 12.0
+[submodule "mail-addons"]
+	path = mail-addons
+	url = https://github.com/RLCO/mail-addons.git
+	branch = 12.0
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/RLCO/maintenance.git
+	branch = 12.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/RLCO/management-system.git
+	branch = 12.0
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/RLCO/manufacture.git
+	branch = 12.0
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/RLCO/manufacture-reporting.git
+	branch = 12.0
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = https://github.com/RLCO/margin-analysis.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/RLCO/mis-builder.git
+	branch = 12.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/RLCO/misc-addons.git
+	branch = 12.0
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = https://github.com/RLCO/miscellaneous.git
+	branch = 12.0
+[submodule "mrp_subcontracting-backport"]
+	path = mrp_subcontracting-backport
+	url = https://github.com/RLCO/mrp_subcontracting-backport.git
+	branch = 12.0
+[submodule "muk_base"]
+	path = muk_base
+	url = https://github.com/RLCO/muk_base.git
+	branch = 12.0
+[submodule "muk_bundles"]
+	path = muk_bundles
+	url = https://github.com/RLCO/muk_bundles.git
+	branch = 12.0
+[submodule "muk_dms"]
+	path = muk_dms
+	url = https://github.com/RLCO/muk_dms.git
+	branch = 12.0
+[submodule "muk_misc"]
+	path = muk_misc
+	url = https://github.com/RLCO/muk_misc.git
+	branch = 12.0
+[submodule "muk_web"]
+	path = muk_web
+	url = https://github.com/RLCO/muk_web.git
+	branch = 12.0
+[submodule "muk_website"]
+	path = muk_website
+	url = https://github.com/RLCO/muk_website.git
+	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/RLCO/multi-company.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RLCO/multi-store.git
+	branch = 12.0
+[submodule "oca-custom"]
+	path = oca-custom
+	url = https://github.com/RLCO/oca-custom.git
+	branch = 12.0
+[submodule "odoo-academic"]
+	path = odoo-academic
+	url = https://github.com/RLCO/odoo-academic.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RLCO/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-hr-incubator"]
+	path = odoo-addons-hr-incubator
+	url = https://github.com/RLCO/odoo-addons-hr-incubator.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RLCO/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RLCO/odooapps.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RLCO/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "odoo-py3o-report-templates"]
+	path = odoo-py3o-report-templates
+	url = https://github.com/RLCO/odoo-py3o-report-templates.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RLCO/partner.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/RLCO/partner-contact.git
+	branch = 12.0
+[submodule "pos"]
+	path = pos
+	url = https://github.com/RLCO/pos.git
+	branch = 12.0
+[submodule "product"]
+	path = product
+	url = https://github.com/RLCO/product.git
+	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/RLCO/product-attribute.git
+	branch = 12.0
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/RLCO/product-pack.git
+	branch = 12.0
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/RLCO/product-variant.git
+	branch = 12.0
+[submodule "profiloo"]
+	path = profiloo
+	url = https://github.com/RLCO/profiloo.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = https://github.com/RLCO/project.git
+	branch = 12.0
+[submodule "project-bid"]
+	path = project-bid
+	url = https://github.com/RLCO/project-bid.git
+	branch = 12.0
+[submodule "project-earned-value"]
+	path = project-earned-value
+	url = https://github.com/RLCO/project-earned-value.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/RLCO/project-reporting.git
+	branch = 12.0
+[submodule "purchase"]
+	path = purchase
+	url = https://github.com/RLCO/purchase.git
+	branch = 12.0
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = https://github.com/RLCO/purchase-reporting.git
+	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/RLCO/purchase-workflow.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/RLCO/queue.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/RLCO/reporting-engine.git
+	branch = 12.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/RLCO/report-print-send.git
+	branch = 12.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/RLCO/rest-framework.git
+	branch = 12.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/RLCO/rma.git
+	branch = 12.0
+[submodule "sale"]
+	path = sale
+	url = https://github.com/RLCO/sale.git
+	branch = 12.0
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/RLCO/sale-reporting.git
+	branch = 12.0
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/RLCO/search-engine.git
+	branch = 12.0
+[submodule "SerpentCS_Contributions"]
+	path = SerpentCS_Contributions
+	url = https://github.com/RLCO/SerpentCS_Contributions.git
+	branch = 12.0
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/RLCO/server-auth.git
+	branch = 12.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/RLCO/server-backend.git
+	branch = 12.0
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/RLCO/server-brand.git
+	branch = 12.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/RLCO/server-env.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/RLCO/server-tools.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/RLCO/server-ux.git
+	branch = 12.0
+[submodule "social"]
+	path = social
+	url = https://github.com/RLCO/social.git
+	branch = 12.0
+[submodule "stock"]
+	path = stock
+	url = https://github.com/RLCO/stock.git
+	branch = 12.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/RLCO/stock-logistics-barcode.git
+	branch = 12.0
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/RLCO/stock-logistics-reporting.git
+	branch = 12.0
+[submodule "stock-logistics-transport"]
+	path = stock-logistics-transport
+	url = https://github.com/RLCO/stock-logistics-transport.git
+	branch = 12.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/RLCO/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/RLCO/stock-logistics-workflow.git
+	branch = 12.0
+[submodule "stock-rma"]
+	path = stock-rma
+	url = https://github.com/RLCO/stock-rma.git
+	branch = 12.0
+[submodule "survey"]
+	path = survey
+	url = https://github.com/RLCO/survey.git
+	branch = 12.0
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/RLCO/timesheet.git
+	branch = 12.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = https://github.com/RLCO/transport-management-system.git
+	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RLCO/trey-addons.git
+	branch = 12.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/RLCO/vertical-association.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RLCO/vertical-cooperative.git
+	branch = 12.0
+[submodule "vertical-hotel"]
+	path = vertical-hotel
+	url = https://github.com/RLCO/vertical-hotel.git
+	branch = 12.0
+[submodule "vertical-housing-cooperative"]
+	path = vertical-housing-cooperative
+	url = https://github.com/RLCO/vertical-housing-cooperative.git
+	branch = 12.0
+[submodule "vertical-isp"]
+	path = vertical-isp
+	url = https://github.com/RLCO/vertical-isp.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = https://github.com/RLCO/web.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/RLCO/website.git
+	branch = 12.0
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/RLCO/website-addons.git
+	branch = 12.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/RLCO/wms.git
+	branch = 12.0
+[submodule "openeducat_erp"]
+	path = openeducat_erp
+	url = https://github.com/RLCO/openeducat_erp.git
+	branch = 12.0
+[submodule "fleet_management"]
+	path = fleet_management
+	url = https://github.com/RLCO/fleet_management.git
+	branch = 12.0
+[submodule "RL-Shipping"]
+	path = RL-Shipping
+	url = https://github.com/RLJO/RL-Shipping.git
+	branch = Shipping
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = https://github.com/RLCO/addons-vauxoo.git
+	branch = 12.0
+[submodule "fb-connector"]
+	path = fb-connector
+	url = https://github.com/Vauxoo/fb-connector.git
+	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RLCO/backend_theme.git
+	branch = 12.0
+[submodule "OdooEduERP"]
+	path = OdooEduERP
+	url = https://github.com/RLCO/OdooEduERP.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RLCO/mailbox_replica.git
+	branch = 12.0
+[submodule "Openworx-odoo-addons"]
+	path = Openworx-odoo-addons
+	url = https://github.com/RLCO/Openworx-odoo-addons.git
+	branch = 12.0
+[submodule "SythilTech-Odoo"]
+	path = SythilTech-Odoo
+	url = https://github.com/RLCO/SythilTech-Odoo.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RLCO/account-move-import.git
+	branch = 12.0
+[submodule "medical-fhir"]
+	path = medical-fhir
+	url = https://github.com/rlco/medical-fhir.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RLCO/YK.git
+	branch = 12.0
+[submodule "cb-medical"]
+	path = cb-medical
+	url = https://github.com/RLCO/cb-medical.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RLCO/tracking.git
+	branch = 12.0
+[submodule "oehealth"]
+	path = oehealth
+	url = https://github.com/RLCO/oehealth.git
+	branch = 12.0
+[submodule "horizon"]
+	path = horizon
+	url = https://github.com/RLCO/horizon.git
+	branch = 12.0
+[submodule "Jupical_Contributions"]
+	path = Jupical_Contributions
+	url = https://github.com/RLCO/Jupical_Contributions.git
+	branch = 12.0
+[submodule "sdi-addons"]
+	path = sdi-addons
+	url = https://github.com/RLCO/sdi-addons.git
+	branch = 12.0
+[submodule "cb-hr"]
+	path = cb-hr
+	url = https://github.com/RLCO/cb-hr.git
+	branch = 12.0
+[submodule "survey_attachment"]
+	path = survey_attachment
+	url = https://github.com/RLCO/survey_attachment.git
+	branch = 12.0
+[submodule "odoo_dhtmlxgantt"]
+	path = odoo_dhtmlxgantt
+	url = https://github.com/RLCO/odoo_dhtmlxgantt.git
+	branch = 12.0
+[submodule "gityopie"]
+	path = gityopie
+	url = https://github.com/RLCO/gityopie.git
+	branch = 12.0
+[submodule "odoo-formio"]
+	path = odoo-formio
+	url = https://github.com/RLCO/odoo-formio.git
+	branch = 12.0

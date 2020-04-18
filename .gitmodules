@@ -518,3 +518,83 @@
 	path = vertical-housing-cooperative
 	url = https://github.com/RLCO/vertical-housing-cooperative.git
 	branch = 12.0
+[submodule "vertical-isp"]
+	path = vertical-isp
+	url = https://github.com/RLCO/vertical-isp.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = https://github.com/RLCO/web.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/RLCO/website.git
+	branch = 12.0
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/RLCO/website-addons.git
+	branch = 12.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/RLCO/wms.git
+	branch = 12.0
+[submodule "openeducat_erp"]
+	path = openeducat_erp
+	url = https://github.com/RLCO/openeducat_erp.git
+	branch = 12.0
+[submodule "fleet_management"]
+	path = fleet_management
+	url = https://github.com/RLCO/fleet_management.git
+	branch = 12.0
+[submodule "RL-Shipping"]
+	path = RL-Shipping
+	url = https://github.com/RLJO/RL-Shipping.git
+	branch = Shipping
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = https://github.com/RLCO/addons-vauxoo.git
+	branch = 12.0
+[submodule "fb-connector"]
+	path = fb-connector
+	url = https://github.com/Vauxoo/fb-connector.git
+	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RLCO/backend_theme.git
+	branch = 12.0
+[submodule "OdooEduERP"]
+	path = OdooEduERP
+	url = https://github.com/RLCO/OdooEduERP.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RLCO/mailbox_replica.git
+	branch = 12.0
+[submodule "Openworx-odoo-addons"]
+	path = Openworx-odoo-addons
+	url = https://github.com/RLCO/Openworx-odoo-addons.git
+	branch = 12.0
+[submodule "SythilTech-Odoo"]
+	path = SythilTech-Odoo
+	url = https://github.com/RLCO/SythilTech-Odoo.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RLCO/account-move-import.git
+	branch = 12.0
+[submodule "medical-fhir"]
+	path = medical-fhir
+	url = https://github.com/rlco/medical-fhir.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RLCO/YK.git
+	branch = 12.0
+[submodule "cb-medical"]
+	path = cb-medical
+	url = https://github.com/RLCO/cb-medical.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RLCO/tracking.git
+	branch = 12.0

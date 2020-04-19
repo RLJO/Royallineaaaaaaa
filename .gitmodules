@@ -882,3 +882,7 @@
 	path = storage
 	url = https://github.com/RLCO/storage.git
 	branch = 12.0
+[submodule "send_sms_task"]
+	path = send_sms_task
+	url = https://github.com/RLCO/send_sms_task.git
+	branch = 12.0
